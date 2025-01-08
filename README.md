@@ -19,14 +19,14 @@ The Superstore Sales Dashboard provides a comprehensive view of sales performanc
 
 Data preparation involves the following steps:
 1.	**Data Cleaning**:
-o	Removal of duplicate records.
-o	Handling of missing values by imputation or exclusion.
-2.	**Data Modeling**:
-o	Creation of relationships between tables (e.g., Orders, Products, Customers).
-o	Use of DAX (Data Analysis Expressions) for calculated measures like Total Sales, Profit Margin, and Average Order Value.
-3.	**Data Enrichment**:
-o	Adding calculated columns (e.g., Year, Month, Quarter from Order Date).
-o	Categorizing products into high, medium, and low profitability groups.
+Removal of duplicate records.
+	Handling of missing values by imputation or exclusion.
+3.	**Data Modeling**:
+Creation of relationships between tables (e.g., Orders, Products, Customers).
+Use of DAX (Data Analysis Expressions) for calculated measures like Total Sales, Profit Margin, and Average Order Value.
+4.	**Data Enrichment**:
+Adding calculated columns (e.g., Year, Month, Quarter from Order Date).
+Categorizing products into high, medium, and low profitability groups.
 
 # Dashboard Features
 
@@ -36,9 +36,17 @@ The dashboard highlights the following key metrics:
 
 **Total Sales**: Aggregate sales revenue.
 
- ![Screenshot 2025-01-08 121112](https://github.com/user-attachments/assets/50d6140b-ddca-4d60-8826-411a2311461e)
+**Total Profit**: Aggregate profit earned.
  
- **Total Profit**: Aggregate profit earned.
+**Profit Margin**: Ratio of profit to sales.
+
+**Customer Segments**: Analysis of high-value customers.
+
+A card visual was used to reprasent count of total sales
+
+![Screenshot 2025-01-08 121112](https://github.com/user-attachments/assets/50d6140b-ddca-4d60-8826-411a2311461e)
+ 
+ 
  
  ![Screenshot 2025-01-08 121127](https://github.com/user-attachments/assets/29ecccf4-ed87-45bc-b495-005b26068926)
 
