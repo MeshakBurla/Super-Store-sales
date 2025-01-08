@@ -68,6 +68,9 @@ Following DAX expression was written to find Sum Of Average Delivery.
 
          AvgDelivery = DATEDIFF(SuperStore_Sales'[Order Date], 'SuperStore_Sales'[Ship Date],DAY)
 
+   ![Screenshot 2025-01-08 121954](https://github.com/user-attachments/assets/3d935ace-d19d-4fe7-962d-f71dfffef0c5)
+
+
 
 # Visualizations
 
