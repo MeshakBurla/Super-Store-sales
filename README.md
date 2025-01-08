@@ -18,6 +18,7 @@ The Superstore Sales Dashboard provides a comprehensive view of sales performanc
 # Data Transformation
 
 Data preparation involves the following steps:
+
 1.**Data Cleaning**:
 	
 Removal of duplicate records.
@@ -68,9 +69,9 @@ Following DAX expression was written to find Sum Of Average Delivery.
 
          AvgDelivery = DATEDIFF(SuperStore_Sales'[Order Date], 'SuperStore_Sales'[Ship Date],DAY)
 
-   ![Screenshot 2025-01-08 121954](https://github.com/user-attachments/assets/3d935ace-d19d-4fe7-962d-f71dfffef0c5)
+ ![Screenshot 2025-01-08 121954](https://github.com/user-attachments/assets/3d935ace-d19d-4fe7-962d-f71dfffef0c5)
 
-**Publishing To Power Bi**
+# Publishing To Power Bi
 
 ![Screenshot 2025-01-07 191740](https://github.com/user-attachments/assets/1ef14271-15fa-477e-98eb-7213f63c6307)
 
