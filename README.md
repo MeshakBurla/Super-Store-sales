@@ -7,15 +7,19 @@
 ## Overview
 The Superstore Sales Dashboard provides a comprehensive view of sales performance across various dimensions, including region, category, sub-category, and time. The primary goal of the dashboard is to enable stakeholders to make data-driven decisions by offering actionable insights.
 
-# Steps Followed
+## Steps Followed
 
 1.load data into Power Bi Desktop,Dataset is a CSV file. 
 
-2.Open power query editor & in view tab under Data preview section ,check column distribution
+2.Open power query editor & in view tab under Data preview section ,check column distribution.
 
+3.Also since by default profile will be opended only for 1000 rows so you need to select column profiling based on entire dataset.
 
+4.It was observed that in none of the columns error & empty values were present except column named arrival delays.
 
-# Data Transformation
+5. For calculating average delay time null values were not taken into accounts as only 1% values are null in this column.
+
+## Data Transformation
 
 Data preparation involves the following steps:
 
@@ -37,7 +41,7 @@ Adding calculated columns (e.g., Year, Month, Quarter from Order Date).
 
 Categorizing products into high, medium, and low profitability groups.
 
-# Dashboard Features
+## Dashboard Features
 
 **Key Metrics**
 
