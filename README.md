@@ -37,3 +37,14 @@ The dashboard highlights the following key metrics:
 •	Total Sales: Aggregate sales revenue.
 
  ![Screenshot 2025-01-08 121112](https://github.com/user-attachments/assets/50d6140b-ddca-4d60-8826-411a2311461e)
+ •	Total Profit: Aggregate profit earned.
+Link: ![Screenshot 2025-01-08 121127](https://github.com/user-attachments/assets/29ecccf4-ed87-45bc-b495-005b26068926)
+
+•	Profit Margin: Ratio of profit to sales.
+
+**Total Orders**:
+
+ ![Screenshot 2025-01-08 121054](https://github.com/user-attachments/assets/95baa59b-5ea5-40db-8414-cf7869fb2843)
+
+**Customer Segments**: Analysis of high-value customers.
+
