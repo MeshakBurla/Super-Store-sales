@@ -71,11 +71,11 @@ Following DAX expression was written to find Sum Of Average Delivery.
 
  ![Screenshot 2025-01-08 121954](https://github.com/user-attachments/assets/3d935ace-d19d-4fe7-962d-f71dfffef0c5)
 
-# Publishing To Power Bi
+## Publishing To Power Bi
 
 ![Screenshot 2025-01-07 191740](https://github.com/user-attachments/assets/1ef14271-15fa-477e-98eb-7213f63c6307)
 
-## Snapshot Of Dashboard (Power Bi service)
+# Snapshot Of Dashboard (Power Bi service)
 
 ![Screenshot 2025-01-08 121019](https://github.com/user-attachments/assets/1d573fab-50f1-4f84-8cfc-37116d8d08a7)
 
@@ -129,6 +129,9 @@ Key considerations include:
 **Scheduled Refresh**: Ensuring data is updated regularly.
 
 **Embedding**: Integration into web applications or sharing via GitHub README.md with Power BI public URL (if applicable).
+
+# Conclusion
+
 
 
 
