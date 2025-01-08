@@ -7,6 +7,13 @@
 ## Overview
 The Superstore Sales Dashboard provides a comprehensive view of sales performance across various dimensions, including region, category, sub-category, and time. The primary goal of the dashboard is to enable stakeholders to make data-driven decisions by offering actionable insights.
 
+# Steps Followed
+
+1.load data into Power Bi Desktop,Dataset is a CSV file. 
+2.Open power query editor & in view tab under Data preview section ,check column distribution
+3.
+4.
+5.
 
 # Data Transformation
 
@@ -20,3 +27,10 @@ o	Use of DAX (Data Analysis Expressions) for calculated measures like Total Sale
 3.	**Data Enrichment**:
 o	Adding calculated columns (e.g., Year, Month, Quarter from Order Date).
 o	Categorizing products into high, medium, and low profitability groups.
+
+# Dashboard Features
+
+**Key Metrics**
+The dashboard highlights the following key metrics:
+•	Total Sales: Aggregate sales revenue.
+ ![Screenshot 2025-01-08 121112](https://github.com/user-attachments/assets/50d6140b-ddca-4d60-8826-411a2311461e)
