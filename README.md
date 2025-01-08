@@ -46,5 +46,14 @@ The dashboard highlights the following key metrics:
 
  ![Screenshot 2025-01-08 121054](https://github.com/user-attachments/assets/95baa59b-5ea5-40db-8414-cf7869fb2843)
 
+# Visualizations
+
+## SUPERSTORE SALES DASHBOARD
+
+![Screenshot 2025-01-02 221550](https://github.com/user-attachments/assets/f45868c9-5598-4344-8037-f653410aba57)
+
+## SUPERSTORE SALES FORCAST DASHBOARD
+
+LINK: ![Screenshot 2025-01-02 224641](https://github.com/user-attachments/assets/8a2f5158-8d1a-49a2-890a-9c7323fc5455)
 
 
