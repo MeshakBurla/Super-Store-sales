@@ -49,6 +49,7 @@ The dashboard highlights the following key metrics:
  Creating a new column following DAX expression was write
  
 Following DAX expression was written to find Sum Of Average Delivery
+
          AvgDelivery = DATEDIFF(SuperStore_Sales'[Order Date], 'SuperStore_Sales'[Ship Date],DAY)
 
 
