@@ -18,7 +18,7 @@ The Superstore Sales Dashboard provides a comprehensive view of sales performanc
 # Data Transformation
 
 Data preparation involves the following steps:
-1.	**Data Cleaning**:
+1.**Data Cleaning**:
 	
 Removal of duplicate records.
 
@@ -62,9 +62,9 @@ A card visual was used to represent count of total orders.
 
  ![Screenshot 2025-01-08 121054](https://github.com/user-attachments/assets/95baa59b-5ea5-40db-8414-cf7869fb2843)
 
- Creating a new column following DAX expression was write
+ Creating a new column following DAX expression was write.
  
-Following DAX expression was written to find Sum Of Average Delivery
+Following DAX expression was written to find Sum Of Average Delivery.
 
          AvgDelivery = DATEDIFF(SuperStore_Sales'[Order Date], 'SuperStore_Sales'[Ship Date],DAY)
 
@@ -82,27 +82,42 @@ Following DAX expression was written to find Sum Of Average Delivery
 The dashboard includes the following visual components:
 
 1.**Sales Trend Analysis**:
+
 Line chart showing monthly and yearly sales trends.
+
 2.**Regional Performance**:
+
 Map visualization depicting sales and profit by region.
+
 3.**Category Performance**:
+
 Bar charts showing sales and profit by category and sub-category.
+
 4.**Profitability Analysis**:
+
 Scatter plot of products by sales and profit.
+
 5.**Customer Insights**:
+
 Table or matrix showing top customers by sales and profit.
 
 ### Filters and Interactivity
 
 **Date Range Filter**: Allows users to select custom time periods.
+
 **Region and Category Filters**: Dynamic filtering to analyze specific regions or product categories.
+
 **Drill-through Functionality**: Detailed analysis by navigating to specific pages for regions or products.
 
 ### Deployment and Sharing
+
 The dashboard is published to the Power BI service, where it can be accessed and shared with stakeholders. 
 Key considerations include:
+
 **Access Control**: Assigning appropriate permissions to users.
+
 **Scheduled Refresh**: Ensuring data is updated regularly.
+
 **Embedding**: Integration into web applications or sharing via GitHub README.md with Power BI public URL (if applicable).
 
 
