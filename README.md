@@ -19,13 +19,21 @@ The Superstore Sales Dashboard provides a comprehensive view of sales performanc
 
 Data preparation involves the following steps:
 1.	**Data Cleaning**:
+	
 Removal of duplicate records.
-	Handling of missing values by imputation or exclusion.
-3.	**Data Modeling**:
+
+Handling of missing values by imputation or exclusion.
+
+2.**Data Modeling**:
+
 Creation of relationships between tables (e.g., Orders, Products, Customers).
+
 Use of DAX (Data Analysis Expressions) for calculated measures like Total Sales, Profit Margin, and Average Order Value.
-4.	**Data Enrichment**:
+
+3.**Data Enrichment**:
+
 Adding calculated columns (e.g., Year, Month, Quarter from Order Date).
+
 Categorizing products into high, medium, and low profitability groups.
 
 # Dashboard Features
@@ -42,15 +50,15 @@ The dashboard highlights the following key metrics:
 
 **Customer Segments**: Analysis of high-value customers.
 
-A card visual was used to reprasent count of total sales
+A card visual was used to represent count of total sales.
 
 ![Screenshot 2025-01-08 121112](https://github.com/user-attachments/assets/50d6140b-ddca-4d60-8826-411a2311461e)
  
+A card visual was used to represent the count of total profit.
  
- 
- ![Screenshot 2025-01-08 121127](https://github.com/user-attachments/assets/29ecccf4-ed87-45bc-b495-005b26068926)
+  ![Screenshot 2025-01-08 121127](https://github.com/user-attachments/assets/29ecccf4-ed87-45bc-b495-005b26068926)
 
-**Total Orders**:
+A card visual was used to represent count of total orders.
 
  ![Screenshot 2025-01-08 121054](https://github.com/user-attachments/assets/95baa59b-5ea5-40db-8414-cf7869fb2843)
 
@@ -70,6 +78,32 @@ Following DAX expression was written to find Sum Of Average Delivery
 ## SUPERSTORE SALES FORCAST DASHBOARD
 
 ![Screenshot 2025-01-02 224641](https://github.com/user-attachments/assets/8a2f5158-8d1a-49a2-890a-9c7323fc5455)
+
+The dashboard includes the following visual components:
+
+1.**Sales Trend Analysis**:
+Line chart showing monthly and yearly sales trends.
+2.**Regional Performance**:
+Map visualization depicting sales and profit by region.
+3.**Category Performance**:
+Bar charts showing sales and profit by category and sub-category.
+4.**Profitability Analysis**:
+Scatter plot of products by sales and profit.
+5.**Customer Insights**:
+Table or matrix showing top customers by sales and profit.
+
+### Filters and Interactivity
+
+**Date Range Filter**: Allows users to select custom time periods.
+**Region and Category Filters**: Dynamic filtering to analyze specific regions or product categories.
+**Drill-through Functionality**: Detailed analysis by navigating to specific pages for regions or products.
+
+### Deployment and Sharing
+The dashboard is published to the Power BI service, where it can be accessed and shared with stakeholders. 
+Key considerations include:
+**Access Control**: Assigning appropriate permissions to users.
+**Scheduled Refresh**: Ensuring data is updated regularly.
+**Embedding**: Integration into web applications or sharing via GitHub README.md with Power BI public URL (if applicable).
 
 
 
