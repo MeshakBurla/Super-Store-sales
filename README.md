@@ -31,6 +31,9 @@ o	Categorizing products into high, medium, and low profitability groups.
 # Dashboard Features
 
 **Key Metrics**
+
 The dashboard highlights the following key metrics:
+
 •	Total Sales: Aggregate sales revenue.
+
  ![Screenshot 2025-01-08 121112](https://github.com/user-attachments/assets/50d6140b-ddca-4d60-8826-411a2311461e)
