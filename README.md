@@ -17,7 +17,7 @@ The Superstore Sales Dashboard provides a comprehensive view of sales performanc
 
 4.It was observed that in none of the columns error & empty values were present except column named arrival delays.
 
-5. For calculating average delay time null values were not taken into accounts as only 1% values are null in this column.
+5.For calculating average delay time null values were not taken into accounts as only 1% values are null in this column.
 
 ## Data Transformation
 
