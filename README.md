@@ -10,10 +10,10 @@ The Superstore Sales Dashboard provides a comprehensive view of sales performanc
 # Steps Followed
 
 1.load data into Power Bi Desktop,Dataset is a CSV file. 
+
 2.Open power query editor & in view tab under Data preview section ,check column distribution
-3.
-4.
-5.
+
+
 
 # Data Transformation
 
