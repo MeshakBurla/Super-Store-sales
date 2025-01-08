@@ -111,25 +111,6 @@ Scatter plot of products by sales and profit.
 
 Table or matrix showing top customers by sales and profit.
 
-### Filters and Interactivity
-
-**Date Range Filter**: Allows users to select custom time periods.
-
-**Region and Category Filters**: Dynamic filtering to analyze specific regions or product categories.
-
-**Drill-through Functionality**: Detailed analysis by navigating to specific pages for regions or products.
-
-### Deployment and Sharing
-
-The dashboard is published to the Power BI service, where it can be accessed and shared with stakeholders. 
-Key considerations include:
-
-**Access Control**: Assigning appropriate permissions to users.
-
-**Scheduled Refresh**: Ensuring data is updated regularly.
-
-**Embedding**: Integration into web applications or sharing via GitHub README.md with Power BI public URL (if applicable).
-
 # Conclusion
 The Superstore Sales Dashboard provides an intuitive interface for analyzing sales data and uncovering actionable insights. Proper maintenance and updates will ensure its continued relevance and utility for stakeholders.
 
