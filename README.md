@@ -46,6 +46,12 @@ The dashboard highlights the following key metrics:
 
  ![Screenshot 2025-01-08 121054](https://github.com/user-attachments/assets/95baa59b-5ea5-40db-8414-cf7869fb2843)
 
+ Creating a new column following DAX expression was write
+ 
+Following DAX expression was written to find Sum Of Average Delivery
+         AvgDelivery = DATEDIFF(SuperStore_Sales'[Order Date], 'SuperStore_Sales'[Ship Date],DAY)
+
+
 # Visualizations
 
 ## SUPERSTORE SALES DASHBOARD
@@ -54,6 +60,8 @@ The dashboard highlights the following key metrics:
 
 ## SUPERSTORE SALES FORCAST DASHBOARD
 
-LINK: ![Screenshot 2025-01-02 224641](https://github.com/user-attachments/assets/8a2f5158-8d1a-49a2-890a-9c7323fc5455)
+![Screenshot 2025-01-02 224641](https://github.com/user-attachments/assets/8a2f5158-8d1a-49a2-890a-9c7323fc5455)
+
+
 
 
